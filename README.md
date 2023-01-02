@@ -1,6 +1,6 @@
 # 🏛 Active Directory in Azure
 
-<p>Here I go through how to setup 2 Virtual Machines using Microsoft Azure. Then how to utilise Wireshark to analyse network traffic across the virtual network. I cover ICMP, SSH, DHCP, DNS and RDP in my analysis.</p>
+In this project I outline the steps to set up a Server and Client using Azure. I then walkthrough how to set up Active Directory and connect a client to the domain. This includes creating users and security groups to administer the Domain Controller.
 
 ## Docs
 
