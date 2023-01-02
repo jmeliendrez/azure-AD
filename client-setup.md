@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/jKfy3JS.png" height="50%" width="50%" alt="Azure Logo"/>
 </p>
 
-# 🕹 Client Setup
+# 🖥 Client Setup
 
 Setting up a client for a server is a vital task in any organisation. Below, I walkthrough the various steps that go into connecting a client to the Domain Controller. 
 
