@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/jKfy3JS.png" height="50%" width="50%" alt="Azure Logo"/>
+<img src="https://azure.microsoft.com/svghandler/active-directory/?width=600&height=315" height="50%" width="50%" alt="Azure Logo"/>
 </p>
 
 # 🕹 Domain Controller Setup
@@ -12,7 +12,7 @@ Setting up a Domain controller consists of installing Active Directory Domain Se
 
 ## Environments and Technologies Used
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines)
 - Microsoft Remote Desktop
 
 <h2>Operating Systems Used </h2>
