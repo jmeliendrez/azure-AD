@@ -12,7 +12,7 @@ In this project I outline the steps to set up a Server and Client using Azure. I
 
 - [Network File Shares and Perimissions](https://github.com/jmeliendrez/azure-AD/blob/bc55bbaa7f4d24c0eddaf1a2736faa1a5b3ebfcb/n-file-shares-permissions.md)
 
-## Youtube Video
+## Youtube Video (Coming Soon)
 
 - [Active Directory Setup]()
 - [Creating DNS Records]()
