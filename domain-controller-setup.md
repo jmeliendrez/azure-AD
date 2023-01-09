@@ -64,4 +64,48 @@ Next, connect to the Server using Remote Desktop.
 <img src="" height="80%" width="80%" alt=""/>
 </p>
 
-Once connected, 
+Once connected, Server Manager will launch automatically. In the top right hand corner click **Manage**.
+
+<p>
+<img src="" height="80%" width="80%" alt=""/>
+</p>
+
+Then, select **Add Roles and Features**.
+
+A window will open that will guide you through installing Active Directory. Click **Next**.
+
+In "Select Installation Type" make sure that **Role-based or feature-based installation** is selected. Then, **Next**.
+
+On the next screen there is a list of Roles. Select **Active Directory Domain Services**. 
+
+When this window appears click **Add Features**.
+
+Then **Next** and **Install**.
+
+Installation will run like this. At the end click **Close**.
+
+Next select the Notification flag on Server Manager. Click **Promote this server to a domain controller**. 
+
+Another window will open. Here select **Add a new forest**. Then choose a domain name (e.g. billy.com) and click **Next** until you reach **Install**.
+
+Then, click **Install** This may take a while. Once completed the Server will restart. You will need to login using the domain (billy.com\[user]).
+
+## Creating Users
+
+Now we will create a Domain Admin and a User. To do this we need to go to **Tools**, and **Active Directory Users and Computers**.
+
+Then click on the down arrow next to your domain.
+
+To create our administrator account, right-click on **Users** then **New**, and **User**.
+
+Fill in the form.
+
+Then go to **Users**, right click your new user and select **Properties**.
+
+Go to **Member Of** at the top of the window.
+
+Click **Add**. Then type **Domain Admin** and click **Check Names**. The text you typed should now be underlined. Click of **Ok**.
+
+Your new user is now part of the Domain Admin group! Now create another User for the domain so that we can login using a Windows 10 machine. Once completed you'll need to set up your client PC. [Click here](https://github.com/jmeliendrez/azure-AD/blob/7c15acabf0c963d9802d3fc0ae08995a21e4bf6f/client-setup.md) for that walkthrough.
+
+
