@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/jKfy3JS.png" height="50%" width="50%" alt="Azure Logo"/>
+<img src="https://azure.microsoft.com/svghandler/active-directory/?width=600&height=315" height="50%" width="50%" alt="Azure Logo"/>
 </p>
 
 # 🖥 Client Setup
