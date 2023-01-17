@@ -8,7 +8,7 @@ Setting up a client for a server is a vital task in any organisation. Below, I w
 
 ## Video Demonstration
 
-- ### [YouTube: Connecting a Client to a Domain Controller]()
+- ### [YouTube: Connecting a Client to a Domain Controller](https://youtu.be/GKVv_AYD6lo)
 
 ## Environments and Technologies Used
 
