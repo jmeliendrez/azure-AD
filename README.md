@@ -9,7 +9,7 @@ In this project I outline the steps to set up a Server and Client using Azure. I
 - [Client Setup](https://github.com/jmeliendrez/azure-AD/blob/bc55bbaa7f4d24c0eddaf1a2736faa1a5b3ebfcb/client-setup.md)
 
 
-## Youtube Video (Coming Soon)
+## Youtube Videos
 
-- [Active Directory Setup]()
-- [Connecting a Client to a Domain Controller]()
+- [Active Directory Setup](https://youtu.be/i2R2f8Zfrlg)
+- [Connecting a Client to a Domain Controller](https://youtu.be/GKVv_AYD6lo)
