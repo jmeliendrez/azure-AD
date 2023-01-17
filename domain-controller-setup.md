@@ -8,7 +8,7 @@ Setting up a Domain controller consists of installing Active Directory Domain Se
 
 ## Video Demonstration
 
-- ### [YouTube: Setting Up Active Directory using Azure]()
+- ### [YouTube: Setting Up Active Directory using Azure](https://youtu.be/i2R2f8Zfrlg)
 
 ## Environments and Technologies Used
 
